@@ -1,0 +1,25 @@
+{
+  "name": "env-array",
+  "version": "1.0.0",
+  "description": "Create an array based on the environment",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "standard && ava"
+  },
+  "author": "Henrik Wenz <handtrix@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "*",
+    "standard": "*"
+  },
+  "keywords": [
+    "node_env",
+    "array",
+    "conifg"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/handtrix/env-array.git"
+  }
+}
